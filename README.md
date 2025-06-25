@@ -18,9 +18,7 @@
 5. [🚀 Deploy & Run](#-deploy--run)
 6. [👥 Default Users & Roles](#-default-users--roles)
 7. [📂 Servlet Endpoints & JSP Views](#-servlet-endpoints--jsp-views)
-8. [📷 Screenshots](#-screenshots)
-9. [🤝 Contributing](#-contributing)
-10. [📜 License](#-license)
+8. [🤝 Contributing](#-contributing)
 
 ---
 
